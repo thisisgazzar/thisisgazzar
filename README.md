@@ -8,7 +8,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="350"  src="https://thisisgazzar.com/images/website_img.png" alt="banner that says Mohamed Elgazzar - Frontend Engineer">
 </div>
 
