@@ -2,7 +2,9 @@
 
 ###
 
-<img align="left" height="150" src="https://assets.raribleuserdata.com/prod/v1/image/t_image_big/aHR0cHM6Ly9pcGZzLmlvL2lwZnMvUW1Ra0wxSEFCZWltS1lrMVBNNTQ3YTkzWTNRNUZzbmEzSnE4cVlkajlNZFpnUC9pbWFnZS5wbmc="  />
+<div align="left" height="150">
+  <img src="https://assets.raribleuserdata.com/prod/v1/image/t_image_big/aHR0cHM6Ly9pcGZzLmlvL2lwZnMvUW1Ra0wxSEFCZWltS1lrMVBNNTQ3YTkzWTNRNUZzbmEzSnE4cVlkajlNZFpnUC9pbWFnZS5wbmc="  />
+</div>
 
 ###
 
