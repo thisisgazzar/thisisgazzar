@@ -27,3 +27,7 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://thisisgazzar.com/images/website_img.png" alt="banner that says Mohamed Elgazzar - Frontend Engineer">
+</div>
