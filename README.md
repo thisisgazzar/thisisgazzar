@@ -1,8 +1,9 @@
 <h2 align="left">Hi! 👋 My name is Mohamed Elgazzar and I'm a Frontend Engineer</h2>
 
 ###
-
-<img align="left" height="150" src="https://assets.raribleuserdata.com/prod/v1/image/t_image_big/aHR0cHM6Ly9pcGZzLmlvL2lwZnMvUW1Ra0wxSEFCZWltS1lrMVBNNTQ3YTkzWTNRNUZzbmEzSnE4cVlkajlNZFpnUC9pbWFnZS5wbmc="  />
+<div align="left">
+  <img align="left" height="150" src="https://assets.raribleuserdata.com/prod/v1/image/t_image_big/aHR0cHM6Ly9pcGZzLmlvL2lwZnMvUW1Ra0wxSEFCZWltS1lrMVBNNTQ3YTkzWTNRNUZzbmEzSnE4cVlkajlNZFpnUC9pbWFnZS5wbmc="  />
+</div>
 
 ###
 
