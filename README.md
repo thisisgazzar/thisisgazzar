@@ -1,5 +1,7 @@
 <h2 align="left">Hi! 👋 My name is Mohamed Elgazzar and I'm a Frontend Engineer</h2>
 
+<img src="https://thisisgazzar.com/images/website_img.png" alt="banner that says Mohamed Elgazzar - Frontend Engineer">
+
 ###
 
 <div align="left">
@@ -31,4 +33,3 @@
     Personal Website 🌎
   </a>
 </div>
-###
