@@ -2,6 +2,10 @@
 
 ###
 
+<img align="left" height="150" src="https://assets.raribleuserdata.com/prod/v1/image/t_image_big/aHR0cHM6Ly9pcGZzLmlvL2lwZnMvUW1Ra0wxSEFCZWltS1lrMVBNNTQ3YTkzWTNRNUZzbmEzSnE4cVlkajlNZFpnUC9pbWFnZS5wbmc="  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
@@ -10,10 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://assets.raribleuserdata.com/prod/v1/image/t_image_big/aHR0cHM6Ly9pcGZzLmlvL2lwZnMvUW1Ra0wxSEFCZWltS1lrMVBNNTQ3YTkzWTNRNUZzbmEzSnE4cVlkajlNZFpnUC9pbWFnZS5wbmc="  />
 
 ###
 
