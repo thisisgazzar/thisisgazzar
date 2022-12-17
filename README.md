@@ -1,14 +1,14 @@
-<h2 align="left">Hi! 👋</h2>
+<h2 align="center">Hi! 👋</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img height="150" src="https://assets.raribleuserdata.com/prod/v1/image/t_image_big/aHR0cHM6Ly9pcGZzLmlvL2lwZnMvUW1Ra0wxSEFCZWltS1lrMVBNNTQ3YTkzWTNRNUZzbmEzSnE4cVlkajlNZFpnUC9pbWFnZS5wbmc="  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -19,7 +19,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/mohamed-elgazzar-550a98101" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
