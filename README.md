@@ -26,9 +26,9 @@
   <a href="https://www.linkedin.com/in/mohamed-elgazzar-550a98101" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/gazzarcodes/" target="_blank">
+<!--   <a href="https://www.instagram.com/gazzarcodes/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=d62976&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+  </a> -->
   <a href="https://dev.to/thisisgazzar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo"  />
   </a>
