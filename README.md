@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://thisisgazzar.com">Portfolio</a> •
+  <a href="https://thisisgazzar.com">Website</a> •
   <a href="https://www.linkedin.com/in/mohamed-elgazzar-550a98101">LinkedIn</a> •
   <a href="https://dev.to/thisisgazzar">Dev.to</a>
 </p>
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://thisisgazzar.com">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/website-111?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/mohamed-elgazzar-550a98101">
     <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge"/>
