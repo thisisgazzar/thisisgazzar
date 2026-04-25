@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="45" />
+</p>
+
 <h1 align="center">Mohamed Elgazzar</h1>
 
 <p align="center">
@@ -43,5 +47,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="500" />
 </p>
