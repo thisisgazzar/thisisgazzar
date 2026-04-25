@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="45" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="90" />
 </p>
 
 <h1 align="center">Mohamed Elgazzar</h1>
